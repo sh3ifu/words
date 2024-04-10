@@ -1,0 +1,6365 @@
+{
+  "0-50": {
+    "lip": {
+      "translation": "губа",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "chin": {
+      "translation": "підборіддя",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "tooth": {
+      "translation": "зуб",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "jaw": {
+      "translation": "щелепа",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "forehead": {
+      "translation": "лоб",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "lung": {
+      "translation": "легеня",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "kidney": {
+      "translation": "нирка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "thigh": {
+      "translation": "стегно",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "knee": {
+      "translation": "коліно",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "palm": {
+      "translation": "долоня",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "surround": {
+      "translation": "оточують",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "shrimp": {
+      "translation": "креветки",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "enjoy": {
+      "translation": "насолоджуватись",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "approach": {
+      "translation": "підхід",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "noise": {
+      "translation": "шум",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "tongue": {
+      "translation": "язик",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "wrist": {
+      "translation": "запястя",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "armpit": {
+      "translation": "пахва",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "heel": {
+      "translation": "пята",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "elbow": {
+      "translation": "лікоть",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "uncle": {
+      "translation": "дядько",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "aunt": {
+      "translation": "тітка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "teal": {
+      "translation": "бірюзовий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "navy": {
+      "translation": "темно синій",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "beige": {
+      "translation": "бежевий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "scratch": {
+      "translation": "подряпина",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "tie": {
+      "translation": "краватка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "tying": {
+      "translation": "завязування",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "had an argument": {
+      "translation": "посваритися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "bathrobe": {
+      "translation": "халат",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "belt": {
+      "translation": "ремінь",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "cone": {
+      "translation": "конус",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "overalls": {
+      "translation": "спецодяг",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "scarf": {
+      "translation": "шарф",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "tuxedo": {
+      "translation": "смокінг",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "overall": {
+      "translation": "в цілому",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "assert": {
+      "translation": "стверджувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "reveal": {
+      "translation": "розкрити",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "rise": {
+      "translation": "підніматися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "however": {
+      "translation": "однак",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "criticize": {
+      "translation": "критикувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "concern": {
+      "translation": "занепокоєння",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "indeed": {
+      "translation": "дійсно",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "enhanced": {
+      "translation": "розширений",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "hence": {
+      "translation": "отже",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "distinguish": {
+      "translation": "розрізняти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "expose": {
+      "translation": "викрити",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "obvious": {
+      "translation": "очевидний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "futher": {
+      "translation": "далі",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "though": {
+      "translation": "хоча",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "51-100": {
+    "scare": {
+      "translation": "страх",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "shout": {
+      "translation": "кричати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "terrible": {
+      "translation": "жахливий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "among": {
+      "translation": "серед",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "chart": {
+      "translation": "діаграма",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "instead of": {
+      "translation": "замість",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "several": {
+      "translation": "декілька",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "shape": {
+      "translation": "форма",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "suddenly": {
+      "translation": "раптово",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "suppose": {
+      "translation": "припущення",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "acquire": {
+      "translation": "набути",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "indent": {
+      "translation": "відступ",
+      "additional translations": [
+        "абзац"
+      ],
+      "associations": [],
+      "sentences": [
+        "Type a paragraph of text and indent the first line."
+      ]
+    },
+    "semicolon": {
+      "translation": "крапка з комою",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "In C-type programming languages, after end of command always expected semicolon."
+      ]
+    },
+    "concurrency": {
+      "translation": "паралельність",
+      "additional translations": [
+        "одночасність"
+      ],
+      "associations": [
+        "There are many currencies at the same time."
+      ],
+      "sentences": [
+        "I implement in my code concurrency flows for work with database.",
+        "On science conference some speakers speak concurrency."
+      ]
+    },
+    "cause": {
+      "translation": "причина",
+      "additional translations": [
+        "справа",
+        "казус",
+        "діло"
+      ],
+      "associations": [
+        "Because",
+        "Не зрозуміла ПРИЧИНА цього КАЗУСа."
+      ],
+      "sentences": [
+        "The cause of the accident is not clear.",
+        "The heavy rain was the cause of the flooding in the low-lying areas."
+      ]
+    },
+    "keep track": {
+      "translation": "відслідковувати",
+      "additional translations": [],
+      "associations": [
+        "Берегти/пильнувати свій трак(авто)",
+        "На аукціоні ти ВІДСЛІДКОВУЄШ цікавлячий тебе трак(авто)"
+      ],
+      "sentences": [
+        "I always use a planner to help me keep track of important deadlines and appointments"
+      ]
+    },
+    "exact": {
+      "translation": "точний",
+      "additional translations": [],
+      "associations": [
+        "ЭХ ЗЕК зачем ты точно в сердце убил свою подругу"
+      ],
+      "sentences": [
+        "Can you tell me exactly what time it is now?"
+      ]
+    },
+    "manually": {
+      "translation": "вручну",
+      "additional translations": [],
+      "associations": [
+        "Мануал написаний вручну.",
+        "Мухамед Алі нокаутував всіх руками(вручну)",
+        "Манула(менюалі) хочеться погладити руками(вручну)"
+      ],
+      "sentences": [
+        "I made this toy from wood manually"
+      ]
+    },
+    "convenient": {
+      "translation": "зручний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "I live in a convenient home"
+      ]
+    },
+    "figured out": {
+      "translation": "зясувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "Sherlock figured out who killed this man",
+        "After hours of troubleshooting, he finally figured out the solution to the technical issue."
+      ]
+    },
+    "worth": {
+      "translation": "цінність",
+      "additional translations": [],
+      "associations": [
+        "Worse than death, worth death",
+        "Це не начіс, а цінний ВОРС"
+      ],
+      "sentences": [
+        "Each moment in our lives within our families is worth."
+      ]
+    },
+    "admire": {
+      "translation": "захоплюватись",
+      "additional translations": [],
+      "associations": [
+        "Адмірал захоплюється своїм флотом"
+      ],
+      "sentences": [
+        "i admire your collection of ancient coins"
+      ]
+    },
+    "adopt": {
+      "translation": "прийняти",
+      "additional translations": [
+        "всиновити"
+      ],
+      "associations": [
+        "Всиновлена дитина АДАПТувалась"
+      ],
+      "sentences": [
+        "Your parents adopt you - haha"
+      ]
+    },
+    "directly": {
+      "translation": "безпосередньо",
+      "additional translations": [],
+      "associations": [
+        "Відношення мого ДИРЕКТора до мене - безпосередньо впливає на мою зарплату"
+      ],
+      "sentences": [
+        "The decisions directly affect people's health"
+      ]
+    },
+    "flow": {
+      "translation": "потік",
+      "additional translations": [
+        "течія"
+      ],
+      "associations": [
+        "Потік змив ФЛОт в океан",
+        "Течія річки несе мій ФЛОт"
+      ],
+      "sentences": []
+    },
+    "maintain": {
+      "translation": "підтримувати",
+      "additional translations": [],
+      "associations": [
+        "МЄНТи підтримують друг друга"
+      ],
+      "sentences": [
+        "Regular exercise and a balanced diet are essential to maintain good health and overall well-being"
+      ]
+    },
+    "citations": {
+      "translation": "цитати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "The professor emphasized the importance of including proper citations in our essays to give credit to the original sources."
+      ]
+    },
+    "essential": {
+      "translation": "істотний",
+      "additional translations": [
+        "суттєвий",
+        "основний"
+      ],
+      "associations": [
+        "В цій ЕССЕНЦІї розчин ртуті вносить істотний вклад"
+      ],
+      "sentences": [
+        "In a survival situation, knowing the essentials of finding clean water and building a shelter becomes crucial for your well-being."
+      ]
+    },
+    "birch": {
+      "translation": "береза",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "report": {
+      "translation": "звіт",
+      "additional translations": [
+        "рапорт",
+        "повідомлення"
+      ],
+      "associations": [],
+      "sentences": [
+        "I have to finish my school report on climate change by tomorrow.",
+        "I need to write a report about my weekend activities for my English class."
+      ]
+    },
+    "appropriate": {
+      "translation": "відповідний",
+      "additional translations": [
+        "властивий",
+        "притаманний"
+      ],
+      "associations": [
+        "відповідний ПРОПРІЄТарному товариству"
+      ],
+      "sentences": [
+        "Her choice of words was not appropriate for the professional setting, and it raised concerns among her colleagues.",
+        "Using humor can be appropriate in certain situations..."
+      ]
+    },
+    "avoid": {
+      "translation": "уникнути",
+      "additional translations": [
+        "уникати",
+        "ухилятися",
+        "анулювати"
+      ],
+      "associations": [
+        "уникнути зустрічі з ВОЮючими вовками"
+      ],
+      "sentences": [
+        "I always avoid spicy foods because I don't like the way they taste.",
+        "To stay safe, avoid crossing the street when the traffic light is red."
+      ]
+    },
+    "behave": {
+      "translation": "поводитися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "Children are expected to behave well in the classroom and listen to their teacher.",
+        "At the formal dinner, remember to behave politely and use proper table manners."
+      ]
+    },
+    "calm": {
+      "translation": "спокійний",
+      "additional translations": [
+        "тихий"
+      ],
+      "associations": [
+        "спокій у КАМіна"
+      ],
+      "sentences": [
+        "His voice was calm."
+      ]
+    },
+    "frequently": {
+      "translation": "часто",
+      "additional translations": [
+        "постійно"
+      ],
+      "associations": [
+        "ФРИКИ *часто собираются вместе"
+      ],
+      "sentences": [
+        "She checks her email frequently to stay updated on work assignments.",
+        "People who exercise frequently tend to have better overall health."
+      ]
+    },
+    "habit": {
+      "translation": "звичка",
+      "additional translations": [],
+      "associations": [
+        "звичка ХОББІТа прокидатись о 6 ранку",
+        "звичка їсти ХОБОТом"
+      ],
+      "sentences": [
+        "A cocaine habit.",
+        "Drinking a glass of water as soon as I wake up has become a morning habit for me."
+      ]
+    },
+    "issue": {
+      "translation": "проблема",
+      "additional translations": [
+        "видання",
+        "випуск",
+        "питання"
+      ],
+      "associations": [
+        "пИШУ про важливу *проблему"
+      ],
+      "sentences": [
+        "One common issue in our neighborhood is the lack of street lighting at night.",
+        "Money is not an issue."
+      ]
+    },
+    "patient": {
+      "translation": "терплячий",
+      "additional translations": [
+        "пацієнт"
+      ],
+      "associations": [
+        "ПАТИЕНТам приходится быть *терпеливым особенно у зубного врача"
+      ],
+      "sentences": [
+        "My grandmother is patient with me when I ask her to tell the same story over and over."
+      ]
+    },
+    "punish": {
+      "translation": "карати",
+      "additional translations": [],
+      "associations": [
+        "Польский ПАН ИШ любив *карати слуг"
+      ],
+      "sentences": [
+        "Parents may choose to punish their children by taking away privileges when they misbehave."
+      ]
+    },
+    "punishment": {
+      "translation": "покарання",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "Legal systems aim to provide appropriate punishment for those who break the law."
+      ]
+    },
+    "within": {
+      "translation": "в межах",
+      "additional translations": [
+        "внутрішній",
+        "всередині"
+      ],
+      "associations": [],
+      "sentences": [
+        "I'll be back within 10 minutes; just wait for me here.",
+        "Make sure to complete the assignment within the given timeframe."
+      ]
+    },
+    "pleased": {
+      "translation": "задоволений",
+      "additional translations": [
+        "радий"
+      ],
+      "associations": [],
+      "sentences": [
+        "I am pleased to inform you that your application has been approved."
+      ]
+    },
+    "grown": {
+      "translation": "виріс",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "Our small startup has grown into a successful company with offices in multiple cities"
+      ]
+    },
+    "grow": {
+      "translation": "рости",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "Plants need sunlight and water to grow and thrive.",
+        "The company aims to grow its market share by expanding into new territories."
+      ]
+    },
+    "grow up": {
+      "translation": "вирости",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "When I grow up, I want to be a veterinarian and help animals."
+      ]
+    },
+    "grown-up": {
+      "translation": "дорослий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "Being a grown-up means making decisions based on both logic and experience."
+      ]
+    },
+    "nearly": {
+      "translation": "майже",
+      "additional translations": [
+        "біля",
+        "близько",
+        "приблизно"
+      ],
+      "associations": [],
+      "sentences": [
+        "The store is nearly empty because it's closing time.",
+        "I am nearly finished with my homework and will be ready to join you soon."
+      ]
+    },
+    "bench": {
+      "translation": "лавка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "Most parks have benches for people to relax upon."
+      ]
+    },
+    "screwed": {
+      "translation": "прикручений",
+      "additional translations": [
+        "облажатись"
+      ],
+      "associations": [],
+      "sentences": [
+        "I forgot to save my document, and now I'm pretty much screwed because the computer crashed."
+      ]
+    },
+    "screwe": {
+      "translation": "гвинт",
+      "additional translations": [
+        "шуруп",
+        "закручувати"
+      ],
+      "associations": [
+        "СКРУтить *винт."
+      ],
+      "sentences": [
+        "I needed a small screwe to fix the loose hinge on the cabinet."
+      ]
+    }
+  },
+  "101-150": {
+    "represent": {
+      "translation": "представляти",
+      "additional translations": [
+        "відображати",
+        "зображати"
+      ],
+      "associations": [
+        "*представляти ПРЕЗЕНТацію"
+      ],
+      "sentences": [
+        "The pie chart will represent the distribution of expenses in a visual format."
+      ]
+    },
+    "stroll": {
+      "translation": "прогулятися",
+      "additional translations": [
+        "гуляти",
+        "прогулянка"
+      ],
+      "associations": [
+        "СТРОиЛ *гуляя в результате великая китайская стена"
+      ],
+      "sentences": [
+        "After dinner, they decided to stroll along the beach and enjoy the sunset."
+      ]
+    },
+    "during": {
+      "translation": "протягом",
+      "additional translations": [
+        "під час"
+      ],
+      "associations": [
+        "ДежУРИть Надо *в_течение дня"
+      ],
+      "sentences": [
+        "I usually drink coffee during the morning to help me wake up."
+      ]
+    },
+    "plenty": {
+      "translation": "багато",
+      "additional translations": [
+        "численний",
+        "чимало",
+        "безліч"
+      ],
+      "associations": [
+        "*множество людей попало в ПЛЕН но время войны",
+        "пленти плантс - багато рослин"
+      ],
+      "sentences": [
+        "There's plenty of food left, so feel free to have seconds if you're still hungry.",
+        "We have plenty of fruit, so help yourself."
+      ]
+    },
+    "apart": {
+      "translation": "окремо",
+      "additional translations": [
+        "осторонь",
+        "відособленно",
+        "на віддалі"
+      ],
+      "associations": [],
+      "sentences": [
+        "They moved apart and then came back together."
+      ]
+    },
+    "completely": {
+      "translation": "повністю",
+      "additional translations": [],
+      "associations": [
+        "*полностью уКОМПЛЕкТовали заказ"
+      ],
+      "sentences": [
+        "She was completely surprised by the unexpected gift from her friends."
+      ]
+    },
+    "dash": {
+      "translation": "тире",
+      "additional translations": [
+        "ривок",
+        "порив",
+        "стрімкий рух"
+      ],
+      "associations": [],
+      "sentences": [
+        "The cat made a quick dash across the room to catch the playful beam of light.",
+        "Helen dashed up the stairs so she wouldn’t be late for her appointment."
+      ]
+    },
+    "disgust": {
+      "translation": "огида",
+      "additional translations": [
+        "гидота",
+        "відраза"
+      ],
+      "associations": [],
+      "sentences": [
+        "He felt disgust toward his date because she had such terrible eating habits."
+      ]
+    },
+    "fashionable": {
+      "translation": "модний",
+      "additional translations": [
+        "світський"
+      ],
+      "associations": [],
+      "sentences": [
+        "It is very fashionable to wear a hat."
+      ]
+    },
+    "foreign": {
+      "translation": "іноземний",
+      "additional translations": [
+        "закордонний",
+        "зарубіжний"
+      ],
+      "associations": [],
+      "sentences": [
+        "Learning a foreign language can open up new opportunities for personal and professional growth."
+      ]
+    },
+    "nowadays": {
+      "translation": "наші дні",
+      "additional translations": [
+        "сучасність",
+        "тепер",
+        "за наших часів"
+      ],
+      "associations": [],
+      "sentences": [
+        "Nowadays, technology plays a significant role in shaping our daily lives.",
+        "Unlike in the past, nowadays, people have instant access to information through the internet."
+      ]
+    },
+    "tense": {
+      "translation": "напружений",
+      "additional translations": [
+        "збуджений",
+        "натянутий"
+      ],
+      "associations": [],
+      "sentences": [
+        "I felt very tense waiting to hear the result of the vote."
+      ]
+    },
+    "vague": {
+      "translation": "нечіткий",
+      "additional translations": [
+        "розпливчастий"
+      ],
+      "associations": [],
+      "sentences": [
+        "Her explanation of the project was vague, leaving us confused about the details.",
+        "I asked him about his mother’s health, but he was very vague about it."
+      ]
+    },
+    "announce": {
+      "translation": "оголосити",
+      "additional translations": [
+        "докладати",
+        "доповідати"
+      ],
+      "associations": [
+        "Від слова АНОНС, тобто *оголошення."
+      ],
+      "sentences": [
+        "He announced to everyone his new idea for the company."
+      ]
+    },
+    "beside": {
+      "translation": "поруч",
+      "additional translations": [
+        "поряд",
+        "поблизу",
+        "біля"
+      ],
+      "associations": [
+        "*мимо БЕжал САИД",
+        "БЕСЕДу *рядом бабушки ведут",
+        "*рядом будем БЕСЕДовать"
+      ],
+      "sentences": [
+        "The two brothers stood beside each other."
+      ]
+    },
+    "starve": {
+      "translation": "голодувати",
+      "additional translations": [],
+      "associations": [
+        "don't starve - не голодуй"
+      ],
+      "sentences": [
+        "You shouldn't starve yourself for a diet; instead, focus on eating a balanced and healthy meal."
+      ]
+    },
+    "tummy": {
+      "translation": "животик",
+      "additional translations": [],
+      "associations": [
+        "у ТіММІ голодний *животик"
+      ],
+      "sentences": [
+        "After the picnic, the children had full tummies and big smiles on their faces."
+      ]
+    },
+    "desperately": {
+      "translation": "відчайдушно",
+      "additional translations": [
+        "розпачливо"
+      ],
+      "associations": [],
+      "sentences": [
+        "She searched desperately for her lost keys, checking every room in the house."
+      ]
+    },
+    "satisfy": {
+      "translation": "задовільняти",
+      "additional translations": [
+        "вгоджати"
+      ],
+      "associations": [],
+      "sentences": [
+        "A hot cup of tea can satisfy your need for warmth and relaxation on a cold evening.",
+        "Finding a balance between work and leisure can satisfy your overall well-being."
+      ]
+    },
+    "slab": {
+      "translation": "плита",
+      "additional translations": [
+        "кусок"
+      ],
+      "associations": [
+        "СЛАБка кам'яна *плита"
+      ],
+      "sentences": [
+        "He placed the heavy books on the slab of wood to keep them organized.",
+        "Chocolate slab..."
+      ]
+    },
+    "totally": {
+      "translation": "повністю",
+      "additional translations": [
+        "загалом",
+        "тотальний",
+        "абсолютний"
+      ],
+      "associations": [
+        "З початком війни в Україні об'явлена ТОТАЛьна *повна і *абсолютна мобілізація"
+      ],
+      "sentences": [
+        "Even though the weather forecast predicted rain, it turned out to be a totally sunny day."
+      ]
+    },
+    "condition": {
+      "translation": "стан",
+      "additional translations": [
+        "положення"
+      ],
+      "associations": [
+        "В таких *умовах треба встановити КОНДИЦіонер"
+      ],
+      "sentences": []
+    },
+    "contribute": {
+      "translation": "зробити внесок",
+      "additional translations": [
+        "сприяти"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "force": {
+      "translation": "сила",
+      "additional translations": [],
+      "associations": [
+        "ФОРСировать *силы."
+      ],
+      "sentences": []
+    },
+    "harm": {
+      "translation": "шкода",
+      "additional translations": [
+        "збиток",
+        "лихо"
+      ],
+      "associations": [
+        "ХАМ причинив *шкоду"
+      ],
+      "sentences": []
+    },
+    "lay": {
+      "translation": "покласти",
+      "additional translations": [
+        "лежати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "sense": {
+      "translation": "сенс",
+      "additional translations": [
+        "відчуття",
+        "зміст",
+        "почуття"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "therefore": {
+      "translation": "тому",
+      "additional translations": [
+        "внаслідок цього",
+        "отже"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "arrange": {
+      "translation": "організувати",
+      "additional translations": [
+        "влаштовувати"
+      ],
+      "associations": [
+        "ОРАНГутанг в зоопарку *влаштував вечірку"
+      ],
+      "sentences": []
+    },
+    "attend": {
+      "translation": "відвідувати",
+      "additional translations": [
+        "приділяти увагу",
+        "прислухатися"
+      ],
+      "associations": [
+        "це сТЕНД з картинками, на нього треба дивитись а не *прислухатись"
+      ],
+      "sentences": []
+    },
+    "chase": {
+      "translation": "погоня",
+      "additional translations": [
+        "переслідування"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "familiar": {
+      "translation": "знайомий",
+      "additional translations": [
+        "звичний"
+      ],
+      "associations": [
+        "*знайома в тебе ФАМІЛІЯ"
+      ],
+      "sentences": []
+    },
+    "grab": {
+      "translation": "хапати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "hang": {
+      "translation": "висіти",
+      "additional translations": [
+        "вішати"
+      ],
+      "associations": [
+        "ХАН *висів на висилеці"
+      ],
+      "sentences": []
+    },
+    "necessary": {
+      "translation": "необхідний",
+      "additional translations": [
+        "потрібний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "purpose": {
+      "translation": "мета",
+      "additional translations": [
+        "ціль",
+        "призначення"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "release": {
+      "translation": "випуск",
+      "additional translations": [
+        "звільнення"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "encourage": {
+      "translation": "заохочувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "require": {
+      "translation": "вимагати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "satisfied": {
+      "translation": "задоволений",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "single": {
+      "translation": "єдиний",
+      "additional translations": [
+        "неодружений"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "tear": {
+      "translation": "рвати",
+      "additional translations": [
+        "сльоза",
+        "капля"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "depend": {
+      "translation": "залежати",
+      "additional translations": [],
+      "associations": [
+        "пенсія *залежить від ДЕПутатів"
+      ],
+      "sentences": []
+    },
+    "pull": {
+      "translation": "тягнути",
+      "additional translations": [],
+      "associations": [
+        "*натянул ПУЛовер",
+        "*тяну на плече тяжелый ПУЛемет"
+      ],
+      "sentences": []
+    },
+    "certain": {
+      "translation": "впевнений",
+      "additional translations": [
+        "певний",
+        "достовірний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "effect": {
+      "translation": "вплив",
+      "additional translations": [
+        "дія",
+        "ефект"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "focus": {
+      "translation": "зосередженність",
+      "additional translations": [
+        "фокус",
+        "увага"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "immediate": {
+      "translation": "негайно",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "proud": {
+      "translation": "гордий",
+      "additional translations": [
+        "гордість"
+      ],
+      "associations": [
+        "він *гордий через те що говорить ПРАУДу"
+      ],
+      "sentences": []
+    },
+    "remain": {
+      "translation": "залишаються",
+      "additional translations": [
+        "залишатися"
+      ],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "151-200": {
+    "fair": {
+      "translation": "справедливо",
+      "additional translations": [
+        "чесно"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "lone": {
+      "translation": "самотній",
+      "additional translations": [
+        "одинокий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "contain": {
+      "translation": "містить",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "bother": {
+      "translation": "турбувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "doubt": {
+      "translation": "сумнів",
+      "additional translations": [
+        "сумніватись"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "glad": {
+      "translation": "радий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "injustice": {
+      "translation": "несправедливість",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "mention": {
+      "translation": "згадувати",
+      "additional translations": [
+        "згадка"
+      ],
+      "associations": [
+        "МЕНТ *згадав про закон"
+      ],
+      "sentences": []
+    },
+    "policy": {
+      "translation": "політика",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "staff": {
+      "translation": "співробітники",
+      "additional translations": [
+        "персонал",
+        "працівники"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "goal": {
+      "translation": "ціль",
+      "additional translations": [
+        "задача"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "base": {
+      "translation": "основа",
+      "additional translations": [
+        "база"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "effort": {
+      "translation": "зусилля",
+      "additional translations": [
+        "старання"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "hurry": {
+      "translation": "поспішати",
+      "additional translations": [
+        "квапитись"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "refuse": {
+      "translation": "відмовляти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "various": {
+      "translation": "різноманітний",
+      "additional translations": [
+        "різний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "amaze": {
+      "translation": "вражати",
+      "additional translations": [
+        "дивувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "customer": {
+      "translation": "клієнт",
+      "additional translations": [
+        "покупець",
+        "замовник"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "earn": {
+      "translation": "заробляти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "manage": {
+      "translation": "керувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "plate": {
+      "translation": "тарілка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "steal": {
+      "translation": "красти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "mental": {
+      "translation": "психічний",
+      "additional translations": [
+        "розумовий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "web": {
+      "translation": "павутина",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "complex": {
+      "translation": "складний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "lack": {
+      "translation": "нестача",
+      "additional translations": [
+        "відсутність",
+        "брак",
+        "недостача"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "probably": {
+      "translation": "можливо",
+      "additional translations": [
+        "напевно"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "term": {
+      "translation": "термін",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "unite": {
+      "translation": "обєднуватись",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "feature": {
+      "translation": "особливість",
+      "additional translations": [
+        "функція",
+        "властивість"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "instance": {
+      "translation": "приклад",
+      "additional translations": [
+        "екземпляр",
+        "примірник"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "recognize": {
+      "translation": "розпізнавати",
+      "additional translations": [
+        "впізнати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "wide": {
+      "translation": "широкий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "along": {
+      "translation": "вздовж",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "attract": {
+      "translation": "залучати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "site": {
+      "translation": "місце",
+      "additional translations": [
+        "сайт"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "advertise": {
+      "translation": "рекламувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "coach": {
+      "translation": "тренер",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "direct": {
+      "translation": "прямий",
+      "additional translations": [
+        "прямо"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "compare": {
+      "translation": "порівнювати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "meal": {
+      "translation": "їжа",
+      "additional translations": [
+        "трапеза",
+        "прйом їжі",
+        "обід",
+        "харчування"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "profit": {
+      "translation": "прибуток",
+      "additional translations": [
+        "дохід",
+        "вигода"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "accounting": {
+      "translation": "бухгалтерія",
+      "additional translations": [
+        "бухоблік"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "downtown": {
+      "translation": "в центрі міста",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "dull": {
+      "translation": "тупий",
+      "additional translations": [
+        "нудний",
+        "тьмяний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "fare": {
+      "translation": "вартість проїзду",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "former": {
+      "translation": "колишній",
+      "additional translations": [
+        "попередній",
+        "минулий",
+        "давній"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "loan": {
+      "translation": "кредит",
+      "additional translations": [
+        "позика"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "quarter": {
+      "translation": "четверть",
+      "additional translations": [
+        "квартал"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "suffer": {
+      "translation": "страждати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "201-250": {
+    "entertain": {
+      "translation": "розважати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "reflect": {
+      "translation": "відзеркалювати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "regard": {
+      "translation": "відношення",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "serve": {
+      "translation": "обслуговувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "appear": {
+      "translation": "зявлятися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "actual": {
+      "translation": "справжній",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "charge": {
+      "translation": "плата",
+      "additional translations": [],
+      "associations": [
+        "*плата за чардж(зарядку)"
+      ],
+      "sentences": []
+    },
+    "occur": {
+      "translation": "відбувається",
+      "additional translations": [
+        "трапляється"
+      ],
+      "associations": [
+        "О КУРВа, щось погане *відбулося"
+      ],
+      "sentences": []
+    },
+    "advance": {
+      "translation": "просуватися",
+      "additional translations": [
+        "аванс"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "behaviour": {
+      "translation": "поведінка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "match": {
+      "translation": "збіг",
+      "additional translations": [
+        "відповідність"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "pole": {
+      "translation": "стовп",
+      "additional translations": [
+        "полюс",
+        "жердина"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "bury": {
+      "translation": "хоронити",
+      "additional translations": [
+        "поховати"
+      ],
+      "associations": [
+        "*похоронити БАРІ(із RE revelations 2"
+      ],
+      "sentences": []
+    },
+    "west": {
+      "translation": "захід",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "east": {
+      "translation": "схід",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "cheer": {
+      "translation": "підбадьорювати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "perform": {
+      "translation": "виконувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "pressure": {
+      "translation": "тиск",
+      "additional translations": [
+        "натиск"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "strike": {
+      "translation": "забастовка",
+      "additional translations": [
+        "вдарити",
+        "удар",
+        "страйкувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "involve": {
+      "translation": "залучати",
+      "additional translations": [
+        "задіяти",
+        "втягувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "mix": {
+      "translation": "змішувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "mixture": {
+      "translation": "суміш",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "populate": {
+      "translation": "заселяти",
+      "additional translations": [
+        "населяти",
+        "налюднити"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "tip": {
+      "translation": "наконечник",
+      "additional translations": [
+        "кінчик"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "otherwise": {
+      "translation": "інакше",
+      "additional translations": [
+        "в іншому випадку"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "neither": {
+      "translation": "жодний",
+      "additional translations": [
+        "ні той, ні інший",
+        "ані",
+        "ніякий",
+        "ніхто",
+        "ніщо"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "situated": {
+      "translation": "розташований",
+      "additional translations": [
+        "розміщений"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "suggest": {
+      "translation": "пропонувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "actually": {
+      "translation": "насправді",
+      "additional translations": [
+        "дійсно"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "coast": {
+      "translation": "узбережжя",
+      "additional translations": [
+        "берег"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "innocence": {
+      "translation": "невинність",
+      "additional translations": [
+        "наївність"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "appeal": {
+      "translation": "заклик",
+      "additional translations": [
+        "зверення",
+        "апеляція"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "fortunate": {
+      "translation": "щасливий",
+      "additional translations": [
+        "везучий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "opportunity": {
+      "translation": "можливість",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "decide": {
+      "translation": "вирішити",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "primary": {
+      "translation": "основний",
+      "additional translations": [
+        "первинний",
+        "початковий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "aware": {
+      "translation": "в курсі",
+      "additional translations": [],
+      "associations": [
+        "ВАРя *в курсі що в неї урок?"
+      ],
+      "sentences": []
+    },
+    "eventually": {
+      "translation": "зрештою",
+      "additional translations": [
+        "з часом",
+        "врешті-решт"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "attitude": {
+      "translation": "ставлення",
+      "additional translations": [],
+      "associations": [
+        "погане *ставлення до ЕТТЮДів"
+      ],
+      "sentences": []
+    },
+    "assume": {
+      "translation": "припускати",
+      "additional translations": [],
+      "associations": [
+        "*припускаю ця СУММа дуже велика"
+      ],
+      "sentences": []
+    },
+    "borrow": {
+      "translation": "позичати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "embarrass": {
+      "translation": "збентежити",
+      "additional translations": [
+        "соромитися"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "urge": {
+      "translation": "прагнення",
+      "additional translations": [
+        "бажання",
+        "заклик",
+        "потяг"
+      ],
+      "associations": [
+        "УЖ *прагне на волю"
+      ],
+      "sentences": []
+    },
+    "outline": {
+      "translation": "конспект",
+      "additional translations": [
+        "план"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "silly": {
+      "translation": "дурненький",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "consume": {
+      "translation": "споживати",
+      "additional translations": [
+        "поглинати"
+      ],
+      "associations": [
+        "КОСТЮМ *споживає твоє тіло"
+      ],
+      "sentences": []
+    },
+    "excite": {
+      "translation": "схвильований",
+      "additional translations": [
+        "збуджений"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "observe": {
+      "translation": "спостерігати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "race": {
+      "translation": "гонка",
+      "additional translations": [
+        "перегони"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "realize": {
+      "translation": "усвідомлювати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "251-300": {
+    "imply": {
+      "translation": "мати на увазі",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "disadvantage": {
+      "translation": "невигідний",
+      "additional translations": [
+        "недолік"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "hardly": {
+      "translation": "навряд чи",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "log": {
+      "translation": "бревно",
+      "additional translations": [
+        "журнал",
+        "поліно"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "consist": {
+      "translation": "складається",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "desire": {
+      "translation": "бажання",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "eager": {
+      "translation": "нетерплячий",
+      "additional translations": [],
+      "associations": [
+        "*нетерплячий ІГоР"
+      ],
+      "sentences": []
+    },
+    "household": {
+      "translation": "сімейний",
+      "additional translations": [
+        "побутовий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "intent": {
+      "translation": "намір",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "landscape": {
+      "translation": "краєвид",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "lift": {
+      "translation": "піднімати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "pace": {
+      "translation": "темп",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "possess": {
+      "translation": "володіти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "rapidly": {
+      "translation": "швидко",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "remark": {
+      "translation": "зауваження",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "shine": {
+      "translation": "сяяти",
+      "additional translations": [
+        "блиск",
+        "світло",
+        "горіти",
+        "світити"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "spill": {
+      "translation": "розлити",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "I spilled the coffee on the table."
+      ]
+    },
+    "brave": {
+      "translation": "відважний",
+      "additional translations": [
+        "сміливий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "entrance": {
+      "translation": "вхід",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "The gate was locked, so Bill had to find a different entrance."
+      ]
+    },
+    "obey": {
+      "translation": "підкорятися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "steady": {
+      "translation": "стійкий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "twist": {
+      "translation": "крутити",
+      "additional translations": [
+        "кривити",
+        "викривляти",
+        "викручувати",
+        "перекручувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "unless": {
+      "translation": "якщо не",
+      "additional translations": [
+        "хіба що"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "confidence": {
+      "translation": "впевненість",
+      "additional translations": [
+        "довіра"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "disturb": {
+      "translation": "заважати",
+      "additional translations": [
+        "турбувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "estimate": {
+      "translation": "оцінювати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "rough": {
+      "translation": "грубий",
+      "additional translations": [
+        "нетесаний",
+        "нерівний",
+        "необроблений"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "sensitive": {
+      "translation": "чутливий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "shade": {
+      "translation": "відтінок",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "narrow": {
+      "translation": "вузький",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "impress": {
+      "translation": "справити враження",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "rather": {
+      "translation": "швидше",
+      "additional translations": [
+        "вірніше",
+        "краще",
+        "переважно"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "barely": {
+      "translation": "ледве",
+      "additional translations": [
+        "бідно",
+        "ледь"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "notice": {
+      "translation": "помітити",
+      "additional translations": [
+        "повідомлення",
+        "оголошення",
+        "повістка",
+        "попередження"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "schedule": {
+      "translation": "розклад",
+      "additional translations": [
+        "графік",
+        "план"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "share": {
+      "translation": "ділитися",
+      "additional translations": [
+        "частка"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "stage": {
+      "translation": "сцена",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "burden": {
+      "translation": "тягар",
+      "additional translations": [
+        "ноша",
+        "вантаж",
+        "обтяжувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "craft": {
+      "translation": "ремесло",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "lead": {
+      "translation": "вести",
+      "additional translations": [
+        "керувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "moderate": {
+      "translation": "помірний",
+      "additional translations": [
+        "дискретний",
+        "невеликий",
+        "середній"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "overwhelm": {
+      "translation": "переповнювати",
+      "additional translations": [
+        "оволодівати",
+        "поглинати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "perception": {
+      "translation": "сприйняття",
+      "additional translations": [
+        "відчуття",
+        "сприймання",
+        "усідомлення"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "shiver": {
+      "translation": "тремтіти",
+      "additional translations": [
+        "дрижання",
+        "дрож"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "above": {
+      "translation": "вище",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "evidence": {
+      "translation": "докази",
+      "additional translations": [
+        "наявність",
+        "свідчення"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "proper": {
+      "translation": "правильний",
+      "additional translations": [
+        "належний"
+      ],
+      "associations": [
+        "містер ПРОПЕР *правильне миття підлоги"
+      ],
+      "sentences": []
+    },
+    "ski": {
+      "translation": "лижа",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "such": {
+      "translation": "такий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "anxious": {
+      "translation": "занепокоєний",
+      "additional translations": [
+        "тривожний",
+        "неспокійний",
+        "заклопотаний"
+      ],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "301-350": {
+    "consequence": {
+      "translation": "наслідок",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "disaster": {
+      "translation": "катастрофа",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "occupation": {
+      "translation": "професія",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "significant": {
+      "translation": "важливий",
+      "additional translations": [
+        "значний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "destination": {
+      "translation": "призначення",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "delight": {
+      "translation": "насолода",
+      "additional translations": [
+        "захват",
+        "захоплення"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "against": {
+      "translation": "проти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "pleasant": {
+      "translation": "приємний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "prevent": {
+      "translation": "запобігти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "citizen": {
+      "translation": "громадянин",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "tale": {
+      "translation": "історія",
+      "additional translations": [
+        "казка"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "trial": {
+      "translation": "суд",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "violent": {
+      "translation": "жорстокий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "peak": {
+      "translation": "вершина",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "spin": {
+      "translation": "крутитися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "crew": {
+      "translation": "бригада",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "donate": {
+      "translation": "пожертвувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "flavor": {
+      "translation": "смак",
+      "additional translations": [
+        "аромат"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "foundation": {
+      "translation": "фонд",
+      "additional translations": [
+        "основа",
+        "база",
+        "фундамент"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "handle": {
+      "translation": "ручка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "The pot is very hot, so pick it up by the handle."
+      ]
+    },
+    "smooth": {
+      "translation": "гладкий",
+      "additional translations": [
+        "рівний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "clue": {
+      "translation": "підказка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "terror": {
+      "translation": "жах",
+      "additional translations": [
+        "зляк",
+        "террор"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "threat": {
+      "translation": "загроза",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "victim": {
+      "translation": "жертва",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "ancestor": {
+      "translation": "предок",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "frame": {
+      "translation": "рамка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "I have to get a frame for my friend’s picture."
+      ]
+    },
+    "incredible": {
+      "translation": "неймовірний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "praise": {
+      "translation": "похвала",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "pure": {
+      "translation": "чистий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "relative": {
+      "translation": "родич",
+      "additional translations": [
+        "відносний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "senior": {
+      "translation": "старший",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "sink": {
+      "translation": "тонути",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "thick": {
+      "translation": "товстий",
+      "additional translations": [
+        "густий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "supplement": {
+      "translation": "доповнювати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "proceed": {
+      "translation": "продовжити",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "basis": {
+      "translation": "основа",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "depart": {
+      "translation": "вирушати",
+      "additional translations": [
+        "відправлятися",
+        "виїжджати",
+        "поїхати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "factual": {
+      "translation": "правдивий",
+      "additional translations": [
+        "фактичний",
+        "справжній"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "fascinate": {
+      "translation": "зачаровувати",
+      "additional translations": [
+        "захоплювати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "route": {
+      "translation": "маршрут",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "scholar": {
+      "translation": "науковець",
+      "additional translations": [
+        "вчений"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "broad": {
+      "translation": "широкий",
+      "additional translations": [
+        "просторий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "bush": {
+      "translation": "кущ",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "capable": {
+      "translation": "здатний",
+      "additional translations": [
+        "вправний",
+        "здібний",
+        "умілий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "conclude": {
+      "translation": "зробити висновок",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "confident": {
+      "translation": "впевнений",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "convey": {
+      "translation": "передавати",
+      "additional translations": [
+        "виражати",
+        "повідомляти"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "definite": {
+      "translation": "певний",
+      "additional translations": [
+        "визначений"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "cage": {
+      "translation": "клітка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "351-400": {
+    "rid": {
+      "translation": "позбутися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "admission": {
+      "translation": "допуск",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "blame": {
+      "translation": "звинувачувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "kidnap": {
+      "translation": "викрадення",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "nap": {
+      "translation": "дрімати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "rival": {
+      "translation": "суперник",
+      "additional translations": [
+        "конкурент"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "swift": {
+      "translation": "швидкий",
+      "additional translations": [
+        "стрімкий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "vessel": {
+      "translation": "судно",
+      "additional translations": [
+        "корабель"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "departure": {
+      "translation": "відправлення",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "correspond": {
+      "translation": "відповідний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "legacy": {
+      "translation": "спадщина",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "notion": {
+      "translation": "ідея",
+      "additional translations": [
+        "поняття"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "major": {
+      "translation": "важливий",
+      "additional translations": [
+        "значний",
+        "головний",
+        "більший",
+        "основний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "custom": {
+      "translation": "звичай",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "bride": {
+      "translation": "наречена",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "groom": {
+      "translation": "наречений",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "insomnia": {
+      "translation": "безсоння",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "omen": {
+      "translation": "прикмета",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "despite": {
+      "translation": "незважаючи на",
+      "additional translations": [
+        "незважаючи на те, що"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "exhibit": {
+      "translation": "виставка",
+      "additional translations": [
+        "експонат"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "fame": {
+      "translation": "слава",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "gentle": {
+      "translation": "ніжний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "interfere": {
+      "translation": "втручатися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "keep": {
+      "translation": "тримати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "spite": {
+      "translation": "на зло",
+      "additional translations": [
+        "злий",
+        "злість"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "mean": {
+      "translation": "підлий",
+      "additional translations": [
+        "означати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "abuse": {
+      "translation": "зловживати",
+      "additional translations": [
+        "знущатися"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "resort": {
+      "translation": "курорт",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "lightly": {
+      "translation": "злегка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "principal": {
+      "translation": "головний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "afford": {
+      "translation": "дозволити собі",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "bean": {
+      "translation": "боби",
+      "additional translations": [
+        "квасоля"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "debt": {
+      "translation": "борг",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "sue": {
+      "translation": "судитися",
+      "additional translations": [
+        "подавати в суд"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "initial": {
+      "translation": "початковий",
+      "additional translations": [
+        "первинний",
+        "первісний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "intense": {
+      "translation": "інтенсивний",
+      "additional translations": [
+        "сильний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "lend": {
+      "translation": "позичати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "potential": {
+      "translation": "ймовірний",
+      "additional translations": [
+        "потенційний",
+        "можливий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "tutor": {
+      "translation": "репетитор",
+      "additional translations": [
+        "наставник"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "fund": {
+      "translation": "фонд",
+      "additional translations": [
+        "запас",
+        "капітал"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "generous": {
+      "translation": "щедрий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "commit": {
+      "translation": "зобовязатись",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "compose": {
+      "translation": "складати",
+      "additional translations": [
+        "компонувати",
+        "зпівставляти"
+      ],
+      "associations": [],
+      "sentences": [
+        "Tony composed his report using many sources of information."
+      ]
+    },
+    "apparent": {
+      "translation": "очевидний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "emergency": {
+      "translation": "надзвичайна ситуація",
+      "additional translations": [
+        "критична ситуація",
+        "аварійна ситуація"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "exhaust": {
+      "translation": "виснажений",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "labor": {
+      "translation": "робота",
+      "additional translations": [
+        "праця",
+        "труд"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "shift": {
+      "translation": "перемістити",
+      "additional translations": [
+        "змістити",
+        "зсунути",
+        "пересунути",
+        "перейти",
+        "перекласти"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "monitor": {
+      "translation": "спостерігати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "pride": {
+      "translation": "гордість",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "401-450": {
+    "nevertheless": {
+      "translation": "тим не менш",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "overseas": {
+      "translation": "за кордоном",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "grain": {
+      "translation": "зерно",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "ceiling": {
+      "translation": "стеля",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "convince": {
+      "translation": "переконати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "invent": {
+      "translation": "винаходити",
+      "additional translations": [
+        "придумувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "formal": {
+      "translation": "офіційний",
+      "additional translations": [
+        "формальний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "expense": {
+      "translation": "витрати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "commute": {
+      "translation": "їздити на роботу",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "greet": {
+      "translation": "привітатися",
+      "additional translations": [
+        "здоровкатися",
+        "зустрічати",
+        "вітати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "investigate": {
+      "translation": "розслідувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "joy": {
+      "translation": "радість",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "label": {
+      "translation": "етикетка",
+      "additional translations": [
+        "ярлик",
+        "бирка"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "odd": {
+      "translation": "непарний",
+      "additional translations": [
+        "чудернацький",
+        "чудний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "few": {
+      "translation": "мало",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "detect": {
+      "translation": "виявляти",
+      "additional translations": [
+        "виявити",
+        "знаходити",
+        "помічати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "duty": {
+      "translation": "обовязок",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "failure": {
+      "translation": "невдача",
+      "additional translations": [
+        "провал",
+        "пройоб"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "gradual": {
+      "translation": "поступово",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "instant": {
+      "translation": "миттєво",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "pretend": {
+      "translation": "прикидатися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "The boy liked to pretend he was a king."
+      ]
+    },
+    "rank": {
+      "translation": "ранг",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "still": {
+      "translation": "досі",
+      "additional translations": [
+        "до цих пір"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "funeral": {
+      "translation": "похорон",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "ought": {
+      "translation": "повинен",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "insist": {
+      "translation": "наполягати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "mess": {
+      "translation": "безлад",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "oppose": {
+      "translation": "протистояти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "adequate": {
+      "translation": "достатньо",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "anxiety": {
+      "translation": "тривога",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "carve": {
+      "translation": "різати",
+      "additional translations": [
+        "вирізати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "dormitory": {
+      "translation": "гуртожиток",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "devote": {
+      "translation": "присвятити",
+      "additional translations": [
+        "посвячувати"
+      ],
+      "associations": [],
+      "sentences": [
+        "She devotes two hours a day to playing the piano."
+      ]
+    },
+    "dine": {
+      "translation": "вечеряти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "soil": {
+      "translation": "грунт",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "pound": {
+      "translation": "стукати",
+      "additional translations": [
+        "гупати",
+        "гатити"
+      ],
+      "associations": [],
+      "sentences": [
+        "He pounded the nail with the hammer."
+      ]
+    },
+    "nail": {
+      "translation": "цвях",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "persuade": {
+      "translation": "переконувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "severe": {
+      "translation": "суровий",
+      "additional translations": [
+        "сильний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "charitable": {
+      "translation": "благодійний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "wealth": {
+      "translation": "багатство",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "attach": {
+      "translation": "прикріпити",
+      "additional translations": [
+        "приєднати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "bet": {
+      "translation": "ставка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "carriage": {
+      "translation": "карета",
+      "additional translations": [
+        "вагон"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "prime": {
+      "translation": "головний",
+      "additional translations": [
+        "простий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "sincere": {
+      "translation": "щирий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "ability": {
+      "translation": "здатність",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "curious": {
+      "translation": "допитливий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "faith": {
+      "translation": "віра",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "mud": {
+      "translation": "багно",
+      "additional translations": [
+        "грязь"
+      ],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "451-500": {
+    "considerable": {
+      "translation": "значний",
+      "additional translations": [
+        "важливий",
+        "солідний",
+        "чималий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "responsible": {
+      "translation": "відповідальний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "recall": {
+      "translation": "згадати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "regret": {
+      "translation": "жалкувати",
+      "additional translations": [
+        "жаль",
+        "шкода"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "sufficient": {
+      "translation": "достатній",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "surgery": {
+      "translation": "операція",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "tough": {
+      "translation": "жорсткий",
+      "additional translations": [
+        "міцний",
+        "твердий",
+        "важкий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "value": {
+      "translation": "цінність",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "despair": {
+      "translation": "відчай",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "gloom": {
+      "translation": "темрява",
+      "additional translations": [
+        "похмурий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "roam": {
+      "translation": "блукати",
+      "additional translations": [
+        "тинятися"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "solitary": {
+      "translation": "одинокий",
+      "additional translations": [
+        "самотній"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "accuse": {
+      "translation": "звинувачувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "adjust": {
+      "translation": "налаштувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "cotton": {
+      "translation": "бавовна",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "deck": {
+      "translation": "палуба",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "engage": {
+      "translation": "займатися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "firm": {
+      "translation": "твердий",
+      "additional translations": [
+        "крепкий",
+        "міцний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "grand": {
+      "translation": "грандіозний",
+      "additional translations": [
+        "великий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "plain": {
+      "translation": "звичайний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "reef": {
+      "translation": "риф",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "A reef is a group of rocks or coral in the ocean."
+      ]
+    },
+    "shut": {
+      "translation": "закрити",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "accomplish": {
+      "translation": "досягнути",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "recognition": {
+      "translation": "визнання",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "retire": {
+      "translation": "піти на пенсію",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "courage": {
+      "translation": "мужність",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "poverty": {
+      "translation": "бідність",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "float": {
+      "translation": "плавати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "pour": {
+      "translation": "наливати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "raw": {
+      "translation": "сировина",
+      "additional translations": [
+        "сирий(вологий)"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "satellite": {
+      "translation": "супутник",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "underground": {
+      "translation": "підземний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "breed": {
+      "translation": "порода",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "contest": {
+      "translation": "змагання",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "qualify": {
+      "translation": "кваліфікуватися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "stretch": {
+      "translation": "розтяжка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "repair": {
+      "translation": "ремонт",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "resume": {
+      "translation": "продовжити",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "rob": {
+      "translation": "грабувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "slip": {
+      "translation": "послизнутися",
+      "additional translations": [
+        "ковзати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "somewhat": {
+      "translation": "дещо",
+      "additional translations": [
+        "трохи"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "tissue": {
+      "translation": "тканина",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "yard": {
+      "translation": "подвіря",
+      "additional translations": [
+        "двір"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "crowd": {
+      "translation": "натовп",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "bend": {
+      "translation": "гнути",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "chew": {
+      "translation": "жувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "fiction": {
+      "translation": "вигадка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "marvel": {
+      "translation": "дивуватися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "overcome": {
+      "translation": "подолати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "convict": {
+      "translation": "засуджений",
+      "additional translations": [
+        "в'язень"
+      ],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "501-550": {
+    "approximate": {
+      "translation": "приблизний",
+      "additional translations": [
+        "близький",
+        "наближений",
+        "схожий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "breadth": {
+      "translation": "ширина",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "amuse": {
+      "translation": "розважатися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "fertile": {
+      "translation": "плодовитий",
+      "additional translations": [
+        "родючий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "appliance": {
+      "translation": "прилад",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "basin": {
+      "translation": "раковина",
+      "additional translations": [
+        "умивальник"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "broom": {
+      "translation": "віник",
+      "additional translations": [
+        "метла"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "caterpillar": {
+      "translation": "гусениця",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "cupboard": {
+      "translation": "шафа",
+      "additional translations": [
+        "сервант"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "delicate": {
+      "translation": "ніжний",
+      "additional translations": [
+        "делікатний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "emerge": {
+      "translation": "зявлятися",
+      "additional translations": [
+        "виникати",
+        "виринати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "handicap": {
+      "translation": "фізичний недолік",
+      "additional translations": [
+        "перешкода",
+        "інвалідність"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "hook": {
+      "translation": "гачок",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "hop": {
+      "translation": "пригнути",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "To hop means to jump a short distance.",
+        "The kangaroo quickly hopped away from danger."
+      ]
+    },
+    "laundry": {
+      "translation": "прання",
+      "additional translations": [
+        "пральня",
+        "білизна"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "spine": {
+      "translation": "хребет",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "stain": {
+      "translation": "пляма",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "acre": {
+      "translation": "акр",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "chamber": {
+      "translation": "палата",
+      "additional translations": [
+        "кімната",
+        "камера"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "gap": {
+      "translation": "діра",
+      "additional translations": [
+        "розрив",
+        "щіль",
+        "пробіл"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "royal": {
+      "translation": "королівський",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "sole": {
+      "translation": "єдиний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "She was the sole woman in the room."
+      ]
+    },
+    "surface": {
+      "translation": "поверхня",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "strict": {
+      "translation": "строгий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "surf": {
+      "translation": "серфінг",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "bold": {
+      "translation": "сміливий",
+      "additional translations": [
+        "хоробрий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "capture": {
+      "translation": "зхопити",
+      "additional translations": [
+        "зловити"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "duke": {
+      "translation": "герцог",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "guilty": {
+      "translation": "винуватий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "hire": {
+      "translation": "наймати",
+      "additional translations": [
+        "найняти"
+      ],
+      "associations": [],
+      "sentences": [
+        "To hire someone is to pay that person money to work for you.",
+        "We hired a man to paint our house."
+      ]
+    },
+    "permanent": {
+      "translation": "постійний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "bare": {
+      "translation": "голий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "cast": {
+      "translation": "кидати",
+      "additional translations": [
+        "метати",
+        "акторський склад"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "preserve": {
+      "translation": "зберегти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "Dad sprayed a chemical on the house to help preserve the walls."
+      ]
+    },
+    "resemble": {
+      "translation": "нагадувати",
+      "additional translations": [
+        "бути схожим"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "accompany": {
+      "translation": "супроводжувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "net": {
+      "translation": "сітка",
+      "additional translations": [
+        "сачок"
+      ],
+      "associations": [],
+      "sentences": [
+        "A net is a bag made of strong thread. It is used to catch animals.",
+        "The boy caught butterflies in his net."
+      ]
+    },
+    "pot": {
+      "translation": "каструля",
+      "additional translations": [
+        "горщик"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "sort": {
+      "translation": "вид",
+      "additional translations": [
+        "сортувати"
+      ],
+      "associations": [],
+      "sentences": [
+        "What sort of instrument do you want to learn to play?"
+      ]
+    },
+    "tight": {
+      "translation": "тугий",
+      "additional translations": [
+        "щільний",
+        "тісний"
+      ],
+      "associations": [],
+      "sentences": [
+        "A tight thing is hard to move because it is firmly in place."
+      ]
+    },
+    "annual": {
+      "translation": "річний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "cloth": {
+      "translation": "тканина",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "curtain": {
+      "translation": "штора",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "deserve": {
+      "translation": "заслуговувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "feather": {
+      "translation": "перо",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "obtain": {
+      "translation": "отримувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "shell": {
+      "translation": "оболонка",
+      "additional translations": [
+        "панцир",
+        "раковина",
+        "шкаралупа"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "shore": {
+      "translation": "берег",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "dare": {
+      "translation": "наважитися",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "inn": {
+      "translation": "готель",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "551-600": {
+    "pursue": {
+      "translation": "переслідувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "reluctant": {
+      "translation": "неохоче",
+      "additional translations": [
+        "з небажанням"
+      ],
+      "associations": [],
+      "sentences": [
+        "Reluctant means not wanting to do something."
+      ]
+    },
+    "sleeve": {
+      "translation": "рукав",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "hood": {
+      "translation": "капюшон",
+      "additional translations": [
+        "капот"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "inhabitant": {
+      "translation": "мешканець",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "riddle": {
+      "translation": "загадка",
+      "additional translations": [
+        "ребус"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "rot": {
+      "translation": "гнити",
+      "additional translations": [
+        "гниль"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "shortly": {
+      "translation": "незабаром",
+      "additional translations": [
+        "скоро"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "spoil": {
+      "translation": "псувати",
+      "additional translations": [
+        "портити",
+        "псування"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "thrill": {
+      "translation": "хвилювання",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "wicked": {
+      "translation": "злий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "bump": {
+      "translation": "шишка",
+      "additional translations": [
+        "гуля"
+      ],
+      "associations": [],
+      "sentences": [
+        "The monkey got a bump on his head because he was hit by a rock."
+      ]
+    },
+    "chop": {
+      "translation": "рубати",
+      "additional translations": [
+        "відрубати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "closet": {
+      "translation": "шафа",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "district": {
+      "translation": "район",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "endure": {
+      "translation": "терпіти",
+      "additional translations": [
+        "видержувати",
+        "витримувати",
+        "пережити"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "rear": {
+      "translation": "задній",
+      "additional translations": [
+        "тил"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "skull": {
+      "translation": "череп",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "stir": {
+      "translation": "перемішувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "tap": {
+      "translation": "стукати",
+      "additional translations": [
+        "кран"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "bark": {
+      "translation": "гавкати",
+      "additional translations": [
+        "гавкіт"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "bay": {
+      "translation": "затока",
+      "additional translations": [
+        "бухта"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "deaf": {
+      "translation": "глухий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "strip": {
+      "translation": "стрічка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "swear": {
+      "translation": "присягатися",
+      "additional translations": [
+        "клястись"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "arise": {
+      "translation": "виникати",
+      "additional translations": [
+        "траплятися"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "benefactor": {
+      "translation": "благодійник",
+      "additional translations": [
+        "меценат",
+        "добродій"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "blacksmith": {
+      "translation": "кузнец",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "chimney": {
+      "translation": "димохід",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "compensate": {
+      "translation": "компенсувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "encounter": {
+      "translation": "зустріч",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "forge": {
+      "translation": "кузня",
+      "additional translations": [
+        "кувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "humble": {
+      "translation": "скромний",
+      "additional translations": [
+        "соромливий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "ladder": {
+      "translation": "драбина",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "wheat": {
+      "translation": "пшениця",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "bunch": {
+      "translation": "пучок",
+      "additional translations": [
+        "букет",
+        "група"
+      ],
+      "associations": [],
+      "sentences": [
+        "She was hungry, so she ate the entire bunch of grapes."
+      ]
+    },
+    "decent": {
+      "translation": "пристойний",
+      "additional translations": [
+        "приличный"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "irritate": {
+      "translation": "дратувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "kid": {
+      "translation": "жартувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "offend": {
+      "translation": "ображати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "overnight": {
+      "translation": "вночі",
+      "additional translations": [
+        "на ніч",
+        "за одну ніч"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "persist": {
+      "translation": "наполегливий",
+      "additional translations": [
+        "наполягати",
+        "не відступати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "pine": {
+      "translation": "сосна",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "scar": {
+      "translation": "шрам",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "sled": {
+      "translation": "санки",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "tease": {
+      "translation": "дражнити",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "cemetery": {
+      "translation": "кладовище",
+      "additional translations": [
+        "цвинтар"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "creature": {
+      "translation": "створіння",
+      "additional translations": [
+        "істота",
+        "тварина"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "fancy": {
+      "translation": "вишуканий",
+      "additional translations": [
+        "уява",
+        "модний",
+        "фантазія"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "preach": {
+      "translation": "проповідувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "601-650": {
+    "separate": {
+      "translation": "окремо",
+      "additional translations": [
+        "відділяти"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "disappear": {
+      "translation": "зникнути",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "north": {
+      "translation": "північ",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "south": {
+      "translation": "південь",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "puddle": {
+      "translation": "калюжа",
+      "additional translations": [],
+      "associations": [
+        "ПАДати в *калюжу"
+      ],
+      "sentences": []
+    },
+    "toward": {
+      "translation": "назустріч",
+      "additional translations": [],
+      "associations": [
+        "ТОля йде *назустріч"
+      ],
+      "sentences": []
+    },
+    "pitfall": {
+      "translation": "підводний камінь",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "erase": {
+      "translation": "стерти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "crucial": {
+      "translation": "важливий",
+      "additional translations": [
+        "вирішальний",
+        "критичний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "simultaneously": {
+      "translation": "одночасно",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "below": {
+      "translation": "нижче",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "traverse": {
+      "translation": "подолати",
+      "additional translations": [
+        "перешкода",
+        "перетинати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "retrieves": {
+      "translation": "витягувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "vulnerabilities": {
+      "translation": "вразливості",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "mandatory": {
+      "translation": "обовязковий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "presence": {
+      "translation": "наявність",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "flaw": {
+      "translation": "недолік",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "inclusion": {
+      "translation": "включення",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "prevalent": {
+      "translation": "поширений",
+      "additional translations": [
+        "розповсюджений",
+        "переважний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "multitude": {
+      "translation": "безліч",
+      "additional translations": [
+        "множина"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "ensure": {
+      "translation": "забезпечувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "arbitrary": {
+      "translation": "довільний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "demand": {
+      "translation": "попит",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "disclosure": {
+      "translation": "розголошення",
+      "additional translations": [
+        "розкриття інформації"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "utilize": {
+      "translation": "використовувати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "reliable": {
+      "translation": "надійний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "suspicious": {
+      "translation": "підозрілий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "deterrent": {
+      "translation": "стримуючий засіб",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "intrusion": {
+      "translation": "вторгнення",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "intend": {
+      "translation": "мати намір",
+      "additional translations": [
+        "збиратися"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "due": {
+      "translation": "через",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "hopefully": {
+      "translation": "сподіватися",
+      "additional translations": [
+        "надіюсь"
+      ],
+      "associations": [],
+      "sentences": [
+        "сподіваюсь це вам допоможе"
+      ]
+    },
+    "entire": {
+      "translation": "цілий",
+      "additional translations": [
+        "повний",
+        "весь"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "snoop": {
+      "translation": "підглядати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "consider": {
+      "translation": "розглянути",
+      "additional translations": [
+        "вважати",
+        "врахувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "fibe": {
+      "translation": "волокно",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "glass fibe - оптоволокно"
+      ]
+    },
+    "establish": {
+      "translation": "встановити",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "establish the location"
+      ]
+    },
+    "transmission": {
+      "translation": "передача",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "передача(сигналу, телевізійна, коробка передач)"
+      ]
+    },
+    "conductive": {
+      "translation": "провідник",
+      "additional translations": [
+        "електропровідник"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "mediator": {
+      "translation": "посередник",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "persistent": {
+      "translation": "стійкий",
+      "additional translations": [
+        "постійний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "establishment": {
+      "translation": "заснування",
+      "additional translations": [
+        "встановлення",
+        "створення",
+        "запровадження"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "colon": {
+      "translation": "двокрапка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "assess": {
+      "translation": "оцінити",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "either": {
+      "translation": "лише",
+      "additional translations": [
+        "будь-який"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "boundary": {
+      "translation": "межа",
+      "additional translations": [
+        "границя"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "vast": {
+      "translation": "величезний",
+      "additional translations": [
+        "безмежний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "forensics": {
+      "translation": "криміналістика",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "nutshell": {
+      "translation": "в двух словах",
+      "additional translations": [
+        "коротко",
+        "стисло",
+        "горіхова шкарлупа"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "escalate": {
+      "translation": "підвищити",
+      "additional translations": [
+        "загострити(ситуацію)"
+      ],
+      "associations": [],
+      "sentences": []
+    }
+  },
+  "651-700": {
+    "drawback": {
+      "translation": "недолік",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "thoroughly": {
+      "translation": "ретельно",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "gain": {
+      "translation": "отримувати",
+      "additional translations": [
+        "приріст",
+        "користь",
+        "вигода"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "reinforce": {
+      "translation": "зміцнювати",
+      "additional translations": [
+        "підкріплювати",
+        "підсилювати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "controversial": {
+      "translation": "суперечливий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "miscellaneous": {
+      "translation": "різноманітний",
+      "additional translations": [
+        "різносторонній"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "severity": {
+      "translation": "тяжкість",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "exceed": {
+      "translation": "перевищувати",
+      "additional translations": [
+        "перебільшувати",
+        "перевищити",
+        "перебільшувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "modest": {
+      "translation": "скромний",
+      "additional translations": [
+        "соромливий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "occupy": {
+      "translation": "займати",
+      "additional translations": [
+        "зайняти",
+        "окупувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "prosper": {
+      "translation": "процвітати",
+      "additional translations": [
+        "досягати успіхів",
+        "квітнути"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "satisfaction": {
+      "translation": "задоволення",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "awkward": {
+      "translation": "незграбний",
+      "additional translations": [
+        "незручний(ситуація)",
+        "ніяковий(мить)",
+        "неприємний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "caretaker": {
+      "translation": "доглядач",
+      "additional translations": [
+        "вихователь"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "deceive": {
+      "translation": "обманювати",
+      "additional translations": [
+        "обдурити",
+        "вводити в оману",
+        "ошукати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "discourage": {
+      "translation": "відмовляти",
+      "additional translations": [
+        "перешкоджати",
+        "бентежити"
+      ],
+      "associations": [],
+      "sentences": [
+        "Mr. Perry discouraged the students from quitting school."
+      ]
+    },
+    "hatred": {
+      "translation": "ненависть",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "hut": {
+      "translation": "халупа",
+      "additional translations": [
+        "хатина(у лісі, з дерева чи соломи і т.п.)",
+        "хижа"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "inferior": {
+      "translation": "гірший",
+      "additional translations": [
+        "нижчої якості",
+        "другорядний",
+        "підлеглий"
+      ],
+      "associations": [],
+      "sentences": [
+        "Cars built a hundred years ago are inferior to ones built today."
+      ]
+    },
+    "lodge": {
+      "translation": "будиночок",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "A lodge is a house in the mountains used by people who hunt or fish."
+      ]
+    },
+    "neglect": {
+      "translation": "нехтувати",
+      "additional translations": [
+        "зневага",
+        "занедбаність"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "newcomer": {
+      "translation": "новачок",
+      "additional translations": [
+        "новенький",
+        "початківець",
+        "нова людина",
+        "новоприбулий"
+      ],
+      "associations": [],
+      "sentences": [
+        "The students happily welcomed the newcomer to the school."
+      ]
+    },
+    "offense": {
+      "translation": "правопорушення",
+      "additional translations": [
+        "напад",
+        "наступ",
+        "атака",
+        "проступок",
+        "образа(образити)"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "overlook": {
+      "translation": "не замітити",
+      "additional translations": [
+        "пропустити(не побачити)"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "repay": {
+      "translation": "віддячити",
+      "additional translations": [
+        "відплатити",
+        "виплатити",
+        "відшкодувати"
+      ],
+      "associations": [],
+      "sentences": [
+        "She repaid her friend for all of his hard work with a small gift."
+      ]
+    },
+    "ridiculous": {
+      "translation": "безглуздий",
+      "additional translations": [
+        "нісенітний",
+        "смішний",
+        "абсурдний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "satisfactory": {
+      "translation": "задовільний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "Mina often received satisfactory grades since she studied so hard."
+      ]
+    },
+    "shepherd": {
+      "translation": "пастух",
+      "additional translations": [
+        "вівчар",
+        "чабан"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "venture": {
+      "translation": "відважитися",
+      "additional translations": [
+        "ризикований(венчурний)",
+        "наважитися",
+        "ризикувати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "console": {
+      "translation": "втішити",
+      "additional translations": [
+        "втішити когось"
+      ],
+      "associations": [],
+      "sentences": [
+        "When my dog ran away, my dad consoled me."
+      ]
+    },
+    "drawer": {
+      "translation": "шухляда",
+      "additional translations": [
+        "висувний ящик"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "disgraceful": {
+      "translation": "ганебний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "acquaint": {
+      "translation": "знайомити",
+      "additional translations": [
+        "ознайомити когось з чимось"
+      ],
+      "associations": [],
+      "sentences": [
+        "Nancy acquainted herself with the new computer."
+      ]
+    },
+    "disguise": {
+      "translation": "замаскуватися",
+      "additional translations": [
+        "переодягнутися",
+        "маскувати"
+      ],
+      "associations": [],
+      "sentences": [
+        "Everyone knew that it was Dad in the Santa disguise."
+      ]
+    },
+    "brilliant": {
+      "translation": "чудовий",
+      "additional translations": [
+        "геніальний(людина)",
+        "діамант"
+      ],
+      "associations": [],
+      "sentences": [
+        "A brilliant person is very bright or smart.",
+        "My younger sister is brilliant for someone her age."
+      ]
+    },
+    "complaint": {
+      "translation": "скарга",
+      "additional translations": [
+        "невдоволення"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "loyal": {
+      "translation": "вірний",
+      "additional translations": [
+        "лояльний"
+      ],
+      "associations": [],
+      "sentences": [
+        "The three friends are very loyal to each other."
+      ]
+    },
+    "mayor": {
+      "translation": "мер",
+      "additional translations": [
+        "міський голова"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "mutual": {
+      "translation": "взаємний",
+      "additional translations": [
+        "спільний"
+      ],
+      "associations": [],
+      "sentences": [
+        "Robert likes Sarah, and she likes him. The feeling is mutual."
+      ]
+    },
+    "refuge": {
+      "translation": "сховище",
+      "additional translations": [
+        "притулок"
+      ],
+      "associations": [],
+      "sentences": [
+        "When it started to rain, she found refuge in the house."
+      ]
+    },
+    "rub": {
+      "translation": "натирати",
+      "additional translations": [
+        "терти"
+      ],
+      "associations": [],
+      "sentences": [
+        "Mom’s feet were sore, so she rubbed them."
+      ]
+    },
+    "senses": {
+      "translation": "органи відчуття",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "It would be hard to live without your five senses."
+      ]
+    },
+    "ashamed": {
+      "translation": "присоромлений",
+      "additional translations": [
+        "соромно"
+      ],
+      "associations": [],
+      "sentences": [
+        "He was ashamed when he forgot his teacher’s name."
+      ]
+    },
+    "burst": {
+      "translation": "вибух",
+      "additional translations": [
+        "розірватися",
+        "лопнути"
+      ],
+      "associations": [],
+      "sentences": [
+        "The bomb burst over the city."
+      ]
+    },
+    "couch": {
+      "translation": "диван",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "drip": {
+      "translation": "капати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "I heard water dripping from the faucet."
+      ]
+    },
+    "faucet": {
+      "translation": "кран",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "sew": {
+      "translation": "шити",
+      "additional translations": [
+        "пришити",
+        "пошити"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "thread": {
+      "translation": "нитка",
+      "additional translations": [
+        "смуга",
+        "полоса",
+        "різьба(гвинт)"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "trim": {
+      "translation": "підстригатися",
+      "additional translations": [
+        "підрізати(кінчики волосся)",
+        "обрізати(фото...)"
+      ],
+      "associations": [],
+      "sentences": [
+        "I had my hair trimmed this afternoon."
+      ]
+    }
+  },
+  "701-750": {
+    "shortcoming": {
+      "translation": "недолік",
+      "additional translations": [
+        "недосконалість",
+        "вада",
+        "дефект",
+        "слабке місце"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "preliminary": {
+      "translation": "попередній",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "The team conducted preliminary research before starting the project."
+      ]
+    },
+    "plaster": {
+      "translation": "гіпс",
+      "additional translations": [
+        "штукатурка",
+        "пластир"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "go up": {
+      "translation": "підніматися",
+      "additional translations": [
+        "збільшитися(об'єм і т.д.)",
+        "йти вверх",
+        "вирости",
+        "збільшуватися"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "already": {
+      "translation": "вже",
+      "additional translations": [
+        "уже"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "just": {
+      "translation": "просто",
+      "additional translations": [
+        "тільки",
+        "щойно",
+        "справедливий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "yet": {
+      "translation": "ще",
+      "additional translations": [
+        "іще",
+        "вже",
+        "все-таки"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "tremendous": {
+      "translation": "величезний",
+      "additional translations": [
+        "жахливий",
+        "запаморочливий",
+        "приголомшливий"
+      ],
+      "associations": [],
+      "sentences": [
+        "The Earth’s oceans are filled with a tremendous amount of water."
+      ]
+    },
+    "underneath": {
+      "translation": "під",
+      "additional translations": [
+        "внизу",
+        "нижче"
+      ],
+      "associations": [],
+      "sentences": [
+        "The roots of a tree are located underneath the ground."
+      ]
+    },
+    "carpenter": {
+      "translation": "столяр",
+      "additional translations": [
+        "тесляр"
+      ],
+      "associations": [],
+      "sentences": [
+        "A carpenter is a person who builds things with wood."
+      ]
+    },
+    "elegant": {
+      "translation": "вишуканий",
+      "additional translations": [
+        "витончений",
+        "елегантний"
+      ],
+      "associations": [],
+      "sentences": [
+        "In Japan, women wear elegant kimonos on special occasions."
+      ]
+    },
+    "fabric": {
+      "translation": "тканина",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "highlands": {
+      "translation": "високогіря",
+      "additional translations": [
+        "нагір'я",
+        "верховина"
+      ],
+      "associations": [],
+      "sentences": [
+        "The man had a small home in the highlands."
+      ]
+    },
+    "ivory": {
+      "translation": "слонова кістка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "The elephant’s long ivory tusks looked very impressive."
+      ]
+    },
+    "mill": {
+      "translation": "млин",
+      "additional translations": [
+        "молоти"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "needle": {
+      "translation": "голка",
+      "additional translations": [
+        "стрілка(у компасі і т.д.)"
+      ],
+      "associations": [],
+      "sentences": [
+        "I used a needle to fix the hole in my pants."
+      ]
+    },
+    "polish": {
+      "translation": "полірувати",
+      "additional translations": [
+        "начистити(взуття і т.д.)",
+        "натирати",
+        "польський"
+      ],
+      "associations": [],
+      "sentences": [
+        "Mark spent all morning polishing his shoes for the wedding."
+      ]
+    },
+    "shed": {
+      "translation": "сарай",
+      "additional translations": [
+        "склад",
+        "цех",
+        "розсипати щось"
+      ],
+      "associations": [],
+      "sentences": [
+        "We have a small shed in the backyard for storage."
+      ]
+    },
+    "upwards": {
+      "translation": "вгору",
+      "additional translations": [
+        "догори",
+        "нагору",
+        "наверх",
+        "вверх"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "ally": {
+      "translation": "союзник",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "boast": {
+      "translation": "хизуватися",
+      "additional translations": [
+        "хвастатися"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "bully": {
+      "translation": "хуліган",
+      "additional translations": [
+        "чіплятися до когось",
+        "забіяка"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "carbohydrate": {
+      "translation": "вуглеводи",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "crawl": {
+      "translation": "повзати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "The baby crawled across the floor."
+      ]
+    },
+    "dial": {
+      "translation": "циферблат",
+      "additional translations": [
+        "набрати(номер)"
+      ],
+      "associations": [],
+      "sentences": [
+        "I looked at the dial to see what time it was."
+      ]
+    },
+    "mercy": {
+      "translation": "милосердя",
+      "additional translations": [
+        "співчуття"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "nod": {
+      "translation": "кивати",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "sore": {
+      "translation": "боліти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "After lifting the heavy box, Mona’s back was sore."
+      ]
+    },
+    "sting": {
+      "translation": "вжалити",
+      "additional translations": [
+        "вколоти",
+        "вкусити"
+      ],
+      "associations": [],
+      "sentences": [
+        "The needle stung my arm and made me say, “Ouch!”"
+      ]
+    },
+    "creep": {
+      "translation": "крастися",
+      "additional translations": [
+        "повзти",
+        "підкрадатися"
+      ],
+      "associations": [],
+      "sentences": [
+        "The cat slowly crept down the tree."
+      ]
+    },
+    "quarrel": {
+      "translation": "сваритися",
+      "additional translations": [
+        "сварка"
+      ],
+      "associations": [],
+      "sentences": [
+        "Billy quarreled with his wife about buying a new house."
+      ]
+    },
+    "absence": {
+      "translation": "відсутність",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "There is an absence of sand in the hourglass."
+      ]
+    },
+    "aloud": {
+      "translation": "вголос",
+      "additional translations": [
+        "голосно",
+        "вслух"
+      ],
+      "associations": [],
+      "sentences": [
+        "My father often reads stories aloud to me and my sister."
+      ]
+    },
+    "bald": {
+      "translation": "лисий",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "blanket": {
+      "translation": "покривало",
+      "additional translations": [
+        "ковдра"
+      ],
+      "associations": [],
+      "sentences": [
+        "I laid a blanket on the ground so that we could have a picnic."
+      ]
+    },
+    "divorce": {
+      "translation": "розлучення",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "infant": {
+      "translation": "немовля",
+      "additional translations": [
+        "дитина"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "nowhere": {
+      "translation": "ніде",
+      "additional translations": [
+        "нікуди"
+      ],
+      "associations": [],
+      "sentences": [
+        "Nowhere means no place or not existing.",
+        "Unfortunately, water was nowhere to be found."
+      ]
+    },
+    "pat": {
+      "translation": "плескати",
+      "additional translations": [
+        "поплескати",
+        "шльопати",
+        "гладити"
+      ],
+      "associations": [],
+      "sentences": [
+        "I patted some lotion onto my face."
+      ]
+    },
+    "relief": {
+      "translation": "полегшення",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "I felt a sense of relief when I heard the good news."
+      ]
+    },
+    "reproduce": {
+      "translation": "відтворювати",
+      "additional translations": [
+        "розмножуватися",
+        "плодитися"
+      ],
+      "associations": [],
+      "sentences": [
+        "The children tried to reproduce their house using toy blocks."
+      ]
+    },
+    "urgent": {
+      "translation": "терміновий",
+      "additional translations": [
+        "негайний",
+        "невідкладний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "vanish": {
+      "translation": "зникнути",
+      "additional translations": [
+        "щезнути",
+        "пропадати"
+      ],
+      "associations": [],
+      "sentences": [
+        "All the passengers vanished from the train station."
+      ]
+    },
+    "bloom": {
+      "translation": "квітнути",
+      "additional translations": [
+        "цвісти",
+        "цвітіння"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "host": {
+      "translation": "хазяїн",
+      "additional translations": [
+        "господар",
+        "ведучий"
+      ],
+      "associations": [],
+      "sentences": [
+        "A host is someone who invites a guest someplace."
+      ]
+    },
+    "beam": {
+      "translation": "балка",
+      "additional translations": [
+        "брус",
+        "колода(в гімнастиці)",
+        "промінь"
+      ],
+      "associations": [],
+      "sentences": [
+        "Modern skyscrapers are made with many beams."
+      ]
+    },
+    "caution": {
+      "translation": "обережність",
+      "additional translations": [
+        "увага",
+        "пересторога"
+      ],
+      "associations": [],
+      "sentences": [
+        "Please use the power saw with caution. It is very dangerous."
+      ]
+    },
+    "contrary": {
+      "translation": "протилежний",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "rag": {
+      "translation": "ганчірка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "Please use a rag to clean the dust off the table."
+      ]
+    },
+    "scatter": {
+      "translation": "розсипати",
+      "additional translations": [
+        "розкидати"
+      ],
+      "associations": [],
+      "sentences": [
+        "I accidentally scattered all of my pills."
+      ]
+    }
+  },
+  "751-765": {
+    "anticipate": {
+      "translation": "передбачити",
+      "additional translations": [
+        "очікувати",
+        "передбачувати",
+        "чекати"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "deliberate": {
+      "translation": "навмисний",
+      "additional translations": [
+        "розважливий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "dissolve": {
+      "translation": "розчиняти",
+      "additional translations": [
+        "розчинення",
+        "розвести",
+        "розчинитися"
+      ],
+      "associations": [],
+      "sentences": [
+        "I dissolved the pill in a glass of water."
+      ]
+    },
+    "fasten": {
+      "translation": "пристебнути",
+      "additional translations": [
+        "прив'язати",
+        "прикріпити",
+        "застебнути"
+      ],
+      "associations": [],
+      "sentences": [
+        "Elizabeth fastened her seat belt."
+      ]
+    },
+    "germ": {
+      "translation": "мікроб",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "scent": {
+      "translation": "запах",
+      "additional translations": [
+        "аромат"
+      ],
+      "associations": [],
+      "sentences": [
+        "Julie enjoyed the scent of the flowers."
+      ]
+    },
+    "toss": {
+      "translation": "кидати",
+      "additional translations": [
+        "підкидати"
+      ],
+      "associations": [],
+      "sentences": [
+        "He tossed a coin into the air."
+      ]
+    },
+    "aboard": {
+      "translation": "на борту",
+      "additional translations": [
+        "на борт"
+      ],
+      "associations": [],
+      "sentences": [
+        "They climbed aboard the kayak and paddled through the river."
+      ]
+    },
+    "bitter": {
+      "translation": "гіркий",
+      "additional translations": [
+        "засмучений"
+      ],
+      "associations": [],
+      "sentences": [
+        "A bitter person feels upset or angry about something."
+      ]
+    },
+    "drift": {
+      "translation": "дрейфувати",
+      "additional translations": [
+        "дрифт",
+        "дрейф"
+      ],
+      "associations": [],
+      "sentences": [
+        "The large chunk of ice drifted in the water."
+      ]
+    },
+    "enforce": {
+      "translation": "змушувати",
+      "additional translations": [
+        "домогтися",
+        "контроль виконання"
+      ],
+      "associations": [],
+      "sentences": [
+        "To enforce means to make a person follow a rule.",
+        "Police enforce traffic laws to keep everyone safe."
+      ]
+    },
+    "harbor": {
+      "translation": "порт",
+      "additional translations": [
+        "гавань"
+      ],
+      "associations": [],
+      "sentences": [
+        "There were a few small boats in the harbor."
+      ]
+    },
+    "inhabit": {
+      "translation": "населяти",
+      "additional translations": [
+        "жити"
+      ],
+      "associations": [],
+      "sentences": [
+        "To inhabit means to live in a certain place."
+      ]
+    },
+    "march": {
+      "translation": "марш",
+      "additional translations": [
+        "марширувати",
+        "березень"
+      ],
+      "associations": [],
+      "sentences": [
+        "The soldiers marched in straight rows."
+      ]
+    },
+    "startle": {
+      "translation": "налякати",
+      "additional translations": [
+        "злякати когось"
+      ],
+      "associations": [],
+      "sentences": [
+        "To startle means to scare someone suddenly."
+      ]
+    }
+  },
+  "766-780": {
+    "sweat": {
+      "translation": "потіти",
+      "additional translations": [
+        "піт"
+      ],
+      "associations": [],
+      "sentences": [
+        "Whenever I go to the gym, I sweat quite a bit."
+      ]
+    },
+    "triger": {
+      "translation": "курок",
+      "additional translations": [
+        "спуск",
+        "тригер",
+        "запустити(ввести в дію)"
+      ],
+      "associations": [],
+      "sentences": [
+        "The man had his finger on the trigger of the gun."
+      ]
+    },
+    "voyage": {
+      "translation": "подорожувати",
+      "additional translations": [
+        "мандрувати",
+        "поїздка",
+        "плавання(на кораблі і т.д.)"
+      ],
+      "associations": [],
+      "sentences": [
+        "The astronauts took off on a long voyage to the moon."
+      ]
+    },
+    "worship": {
+      "translation": "поклонятися",
+      "additional translations": [
+        "обожнювати"
+      ],
+      "associations": [],
+      "sentences": [
+        "Many people around the world worship in a church."
+      ]
+    },
+    "assured": {
+      "translation": "запевняти",
+      "additional translations": [
+        "запевнити когось в чомусь",
+        "гарантувати"
+      ],
+      "associations": [],
+      "sentences": [
+        "He assured the boss that the building would be done on time."
+      ]
+    },
+    "bleed": {
+      "translation": "кровоточити",
+      "additional translations": [
+        "стікати кров'ю"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "bond": {
+      "translation": "зблизитися",
+      "additional translations": [
+        "облігація"
+      ],
+      "associations": [],
+      "sentences": [
+        "To bond with someone is to become friends with that person.",
+        "The women bonded after several hours of conversation."
+      ]
+    },
+    "diligent": {
+      "translation": "старанний",
+      "additional translations": [
+        "пильний",
+        "ретельний"
+      ],
+      "associations": [],
+      "sentences": [
+        "Craig has always been a very diligent person at work."
+      ]
+    },
+    "emperor": {
+      "translation": "імператор",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "impolite": {
+      "translation": "неввічливий",
+      "additional translations": [
+        "нечемний",
+        "нетактовний",
+        "непристойний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "kneel": {
+      "translation": "прихиляти коліно",
+      "additional translations": [
+        "стояти на колінах"
+      ],
+      "associations": [],
+      "sentences": [
+        "Daryl kneeled down on one knee and asked Nina to marry him."
+      ]
+    },
+    "robe": {
+      "translation": "халат",
+      "additional translations": [
+        "вбрання"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "scold": {
+      "translation": "ругатися",
+      "additional translations": [
+        "вилаяти",
+        "насварити когось",
+        "лаяти"
+      ],
+      "associations": [],
+      "sentences": [
+        "Jesse was scolded by the teacher for not paying attention."
+      ]
+    },
+    "affair": {
+      "translation": "любовний роман",
+      "additional translations": [
+        "інтрига",
+        "справа",
+        "діло",
+        "історія"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "assembly": {
+      "translation": "збирати",
+      "additional translations": [
+        "збори",
+        "збирання(конструкція)",
+        "монтаж",
+        "збір(частин в ціле)",
+        "збори(людей)"
+      ],
+      "associations": [],
+      "sentences": [
+        "The students had an assembly to talk about their interests."
+      ]
+    }
+  },
+  "781-800": {
+    "bless": {
+      "translation": "благословляти",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "cereal": {
+      "translation": "пластівці",
+      "additional translations": [
+        "злаки",
+        "крупа",
+        "зернові культури"
+      ],
+      "associations": [],
+      "sentences": [
+        "Cereal is a fast and common breakfast food enjoyed in the US."
+      ]
+    },
+    "cheerful": {
+      "translation": "веселий",
+      "additional translations": [
+        "радісний"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "exploit": {
+      "translation": "експлуатувати",
+      "additional translations": [
+        "використовувати(повністю)",
+        "експлойт",
+        "подвиг"
+      ],
+      "associations": [],
+      "sentences": [
+        "The company exploits their workers and makes them work 12 hours a day."
+      ]
+    },
+    "famine": {
+      "translation": "голодомор",
+      "additional translations": [
+        "голод",
+        "масовий голод",
+        "гостра недостача"
+      ],
+      "associations": [],
+      "sentences": [
+        "A famine is a long time with little or no food."
+      ]
+    },
+    "harvest": {
+      "translation": "врожай",
+      "additional translations": [
+        "жнива",
+        "збирати врожай"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "merry": {
+      "translation": "веселий",
+      "additional translations": [
+        "щасливий"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "ripe": {
+      "translation": "спілий",
+      "additional translations": [
+        "стиглий",
+        "зрілий",
+        "достиглий"
+      ],
+      "associations": [],
+      "sentences": [
+        "The cherries were nice and ripe."
+      ]
+    },
+    "roast": {
+      "translation": "смажений",
+      "additional translations": [
+        "печений",
+        "жаркий",
+        "пекти"
+      ],
+      "associations": [],
+      "sentences": [
+        "Mom roasted a turkey for the holiday dinner."
+      ]
+    },
+    "stove": {
+      "translation": "плита",
+      "additional translations": [
+        "пічка",
+        "грубка"
+      ],
+      "associations": [],
+      "sentences": [
+        "A stove is a device used to cook food."
+      ]
+    },
+    "theft": {
+      "translation": "крадіжка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": []
+    },
+    "aptitude": {
+      "translation": "здібність",
+      "additional translations": [
+        "схильність"
+      ],
+      "associations": [],
+      "sentences": [
+        "He has a natural aptitude for water skiing."
+      ]
+    },
+    "hinder": {
+      "translation": "заважати",
+      "additional translations": [
+        "перешкоджати"
+      ],
+      "associations": [],
+      "sentences": [
+        "To hinder is to stop someone or something from doing something."
+      ]
+    },
+    "jury": {
+      "translation": "журі",
+      "additional translations": [
+        "суд присяжних"
+      ],
+      "associations": [],
+      "sentences": []
+    },
+    "presume": {
+      "translation": "припускати",
+      "additional translations": [
+        "вважати"
+      ],
+      "associations": [],
+      "sentences": [
+        "Since the girl raised her hand, the teacher presumed she knew the answer."
+      ]
+    },
+    "sensible": {
+      "translation": "розумний",
+      "additional translations": [
+        "розсудливий"
+      ],
+      "associations": [],
+      "sentences": [
+        "It was sensible for her to save some money each month."
+      ]
+    },
+    "sorrow": {
+      "translation": "горе",
+      "additional translations": [
+        "смуток",
+        "сум",
+        "печаль",
+        "жаль",
+        "журба"
+      ],
+      "associations": [],
+      "sentences": [
+        "The girl felt sorrow after her best friend moved away."
+      ]
+    },
+    "straw": {
+      "translation": "соломинка",
+      "additional translations": [],
+      "associations": [],
+      "sentences": [
+        "I drank the orange juice through a straw."
+      ]
+    },
+    "swell": {
+      "translation": "розпухнути",
+      "additional translations": [
+        "збільшитись",
+        "напухнути",
+        "набухати"
+      ],
+      "associations": [],
+      "sentences": [
+        "My sister’s stomach began to swell after she got pregnant."
+      ]
+    },
+    "tidy": {
+      "translation": "охайний",
+      "additional translations": [
+        "прибраний",
+        "чистий"
+      ],
+      "associations": [],
+      "sentences": [
+        "Leon has always been a very tidy boy."
+      ]
+    }
+  },
+  "repeat": {}
+}
