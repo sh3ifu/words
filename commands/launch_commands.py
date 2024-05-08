@@ -18,7 +18,15 @@ def start_command(*args):
         'irregular': irregular,
     }
 
-    check_command(args[0][0], commands, args)
+    '''
+    This if/else construct is needed so that you can use the "start" command instead of "start default", 
+    as it is trivially shorter. Also, typing just the "start" command will now start "start several" by default, 
+    since it allows you to start both one category and several (unlike "start default" which only starts one category).
+    '''
+    if len(args[0]) > 0:        
+        check_command(args[0][0], commands, args)     
+    else:         
+        check_command('several', commands, args)
 
 
 def last(*args):
