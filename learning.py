@@ -89,6 +89,7 @@ def learning_mode(learning_mode_commands={}, words=None, category_name='', prono
                     save_to_json(FILE_PATH, new_words)
                     
                     print(Fore.YELLOW + 'Word [' + Fore.MAGENTA + word1 + Fore.YELLOW + ' - ' + Fore.CYAN + word2 + Fore.YELLOW + '] successfully added to repeat category!' + Style.RESET_ALL + '\n')
+                    counter += 1
                     continue
 
                 if w == word2:
@@ -96,7 +97,7 @@ def learning_mode(learning_mode_commands={}, words=None, category_name='', prono
                     correct_answers += 1
                 else:
                     print(Fore.RED + f'Incorrect! Correct answer is: {word2}\n' + Style.RESET_ALL + '')
-                counter += 1              
+                counter += 1
             
             print(Fore.YELLOW + f'Correct answers: {correct_answers} / {len(words)}' + Style.RESET_ALL + '')
 
@@ -137,6 +138,7 @@ def learning_mode(learning_mode_commands={}, words=None, category_name='', prono
                     save_to_json(FILE_PATH, new_words)
                     
                     print(Fore.YELLOW + 'Word [' + Fore.MAGENTA + word1 + Fore.YELLOW + ' - ' + Fore.CYAN + word2 + Fore.YELLOW + '] successfully added to repeat category!' + Style.RESET_ALL + '\n')
+                    counter += 1
                     continue
 
                 if w == word2:
@@ -144,7 +146,7 @@ def learning_mode(learning_mode_commands={}, words=None, category_name='', prono
                     correct_answers += 1
                 else:
                     print(Fore.RED + f'Incorrect! Correct answer is: {word2}\n' + Style.RESET_ALL + '')
-                counter += 1           
+                counter += 1
         
             print(Fore.YELLOW + f'Correct answers: {correct_answers} / {len(words) * 2}' + Style.RESET_ALL + '')
 
