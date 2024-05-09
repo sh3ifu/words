@@ -43,8 +43,10 @@ def learning_mode(learning_mode_commands={}, words=None, category_name='', prono
                 return
             else:
                 break
-
+    
     while True:
+        # "counter" - word counter. it is needed to make it clearer to the user what word he is on now and how many more are left.
+        counter = 1
         correct_answers = 0
         if words == None:
             words = read_json(FILE_PATH)
@@ -76,7 +78,7 @@ def learning_mode(learning_mode_commands={}, words=None, category_name='', prono
                 if pronounce and mode == 1:
                     __pronounce(word1)
 
-                w = input(f'{word1} - ')
+                w = input(f'{counter}  {word1} - ')
 
                 if w == '!stop':
                     return                
@@ -93,7 +95,8 @@ def learning_mode(learning_mode_commands={}, words=None, category_name='', prono
                     print(Fore.GREEN + 'Correct!\n' + Style.RESET_ALL + '')                    
                     correct_answers += 1
                 else:
-                    print(Fore.RED + f'Incorrect! Correct answer is: {word2}\n' + Style.RESET_ALL + '')                    
+                    print(Fore.RED + f'Incorrect! Correct answer is: {word2}\n' + Style.RESET_ALL + '')
+                counter += 1              
             
             print(Fore.YELLOW + f'Correct answers: {correct_answers} / {len(words)}' + Style.RESET_ALL + '')
 
@@ -120,7 +123,7 @@ def learning_mode(learning_mode_commands={}, words=None, category_name='', prono
                 else:
                     change_keyboard_layout(False)
 
-                w = input(f'{word1} - ')
+                w = input(f'{counter}  {word1} - ')
 
                 if w == '!stop':
                     return                
@@ -140,9 +143,11 @@ def learning_mode(learning_mode_commands={}, words=None, category_name='', prono
                     print(Fore.GREEN + 'Correct!\n' + Style.RESET_ALL + '')
                     correct_answers += 1
                 else:
-                    print(Fore.RED + f'Incorrect! Correct answer is: {word2}\n' + Style.RESET_ALL + '')                
+                    print(Fore.RED + f'Incorrect! Correct answer is: {word2}\n' + Style.RESET_ALL + '')
+                counter += 1           
         
             print(Fore.YELLOW + f'Correct answers: {correct_answers} / {len(words) * 2}' + Style.RESET_ALL + '')
+
 
 def irregular(*args):
     words = read_lines('words/irregular.txt')

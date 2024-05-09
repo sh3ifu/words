@@ -1,12 +1,13 @@
 Commands in menu mode:
 
-START   	  - start learning mode.
+START   	  - start learning mode
   - LAST       - start the last words category(without repeat category)
   - ALL        - starts the mode in which the study takes place on all words
   - SEVERAL    - launches only user-selected categories
   - DEFAULT    - has two modes: 1 - translation only; 2 - original and translation
-  - TRANSLATOR - launches translator mode, in which you can translate words (only one word! not a phrase or sentence) (to exit "!stop").
-  - IRREGULAR  - irregular verbs learning mode.
+  - TRANSLATOR - launches translator mode, in which you can translate words (only one word! not a phrase or sentence) (to exit "!stop")
+  - IRREGULAR  - irregular verbs learning mode
+  - RANDOM     - launches a random category
 LIST 	        - displays information
   - WORDS      - displays list of words in category
   - CATEGORIES - displays all words categories

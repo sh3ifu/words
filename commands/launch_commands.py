@@ -16,6 +16,7 @@ def start_command(*args):
         'several': several,
         'translator': translate_word,
         'irregular': irregular,
+        'random': random
     }
 
     '''
@@ -28,6 +29,21 @@ def start_command(*args):
     else:         
         check_command('several', commands, args)
 
+
+def random(*args):
+    from learning import learning_mode
+    from words import shuffle_list
+    
+    data = read_json(FILE_PATH)
+    categories = list(data.keys())    
+    categories = shuffle_list(categories[:-1])
+
+    print(f'Random category: {categories[0]}\n\n')
+
+    words = {}    
+    words.update(data[categories[0]])
+    
+    learning_mode(words=words)
 
 def last(*args):
     from learning import learning_mode
@@ -63,8 +79,7 @@ def several(*args):
     
     for selected_category in selected_categories:
         if selected_category not in categories:
-            print(Fore.RED + '\nIncorrect category name!')
-            print(Style.RESET_ALL + '') 
+            print(Fore.RED + '\nIncorrect category name!' + Style.RESET_ALL + '')
             return
     
     words = {}
